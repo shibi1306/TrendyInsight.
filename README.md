@@ -1,0 +1,1 @@
+# TrendyInsight.github.io
