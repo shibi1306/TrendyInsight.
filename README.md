@@ -1,6 +1,4 @@
-## TrendyInsight
-
-### About
+## About
 With as many as one third of population have become social media users exchanging information, thanks to low cost smartphones availability and social messaging platforms like Facebook, Twitter, WhatsApp, Instagram etc., social media trending will play a major role on listening the public concern on local or regional issues bothering them for the government authorities to learn and prepare the remedial action. Similarly, businesses of consumer industries will be benefitted from social media trending for better customer services.
 
 TrendyInsight – an application prototype designed and developed to work in iOS platform to capture trending topics from various social networks websites based on user location and present it in graphically on map. The application utilizes the uniqueness of each social network data through Application Program Interface (API) requests based on the trend. The application eliminates the need of user login to access the public data of these social networks. The application provides other experience enhancement features like showing user’s current location, updating the trending data every interval of time, searching for custom location, getting data for any custom hashtag, and settings tab to customize the type of data to be received from the social network APIs.
